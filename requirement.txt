@@ -1,0 +1,10 @@
+openai
+sounddevice
+soundfile
+numpy
+pyaudio
+matplotlib
+textblob
+whisper
+
+
